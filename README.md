@@ -1,4 +1,9 @@
+<div style="background-color: #AABBCC">
 Jagoraxr
+  
+</div>
+
+
 ![GitHub followers](https://img.shields.io/github/followers/jagoraxm)
 
 <p align="center">
