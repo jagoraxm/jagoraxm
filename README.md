@@ -1,4 +1,4 @@
-<div style="background-color: #AABBCC">
+<div style="background-color: #AABBCC; width: '100%'">
 Jagoraxr
   
 </div>
