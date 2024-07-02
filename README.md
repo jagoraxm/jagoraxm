@@ -1,8 +1,4 @@
-<div style="background-color: #AABBCC; width: '100%'">
 Jagoraxr
-  
-</div>
-
 
 ![GitHub followers](https://img.shields.io/github/followers/jagoraxm)
 
@@ -10,10 +6,25 @@ Jagoraxr
   <img src="https://github.com/jagoraxm/FrontSIGI/blob/da32664a5d7d4c1b73cdeb90b2cfdf94ed123f03/public/assets/8.%201920%20x%201080.png" />
 </p>
 
+```js
+import SoftwareDeveloper from 'jagoraxr';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Jonathan Arias';
+  title    = 'Engineer Manager';
+  location = 'México 🇲🇽';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['React','NodeJs','JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
 
 ### 🛠 Tech Stack
 
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![React](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=react&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
@@ -27,6 +38,7 @@ Jagoraxr
 ![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 ![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
