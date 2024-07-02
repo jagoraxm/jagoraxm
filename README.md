@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 
 ### 🛠 Tech Stack
 
-![React](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=react&logoColor=white)
+![React](http://img.shields.io/badge/-React-e8892f?style=flat-square&logo=react&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
