@@ -3,7 +3,7 @@ Jagoraxr
 ![GitHub followers](https://img.shields.io/github/followers/jagoraxm)
 
 <p align="center">
-  <img src="https://github.com/jagoraxm/FrontSIGI/blob/da32664a5d7d4c1b73cdeb90b2cfdf94ed123f03/public/assets/8.%201920%20x%201080.png" />
+  <img src="https://github.com/jagoraxm/FrontSIGI/blob/da32664a5d7d4c1b73cdeb90b2cfdf94ed123f03/public/assets/8.%201920%20x%201080.png" heigh="100" />
 </p>
 
 ```js
@@ -24,22 +24,25 @@ class Skills extends SoftwareDeveloper {
 
 ### 🛠 Tech Stack
 
-![React](http://img.shields.io/badge/-React-e8892f?style=flat-square&logo=react&logoColor=white)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![MySql](http://img.shields.io/badge/-MySql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![NodeJs](http://img.shields.io/badge/-Nodejs-6db33f?style=flat-square&logo=Node.js&logoColor=white)
+![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
+![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Less](http://img.shields.io/badge/-Less-254c7d?style=flat-square&logo=less&logoColor=white)
-![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Scala](http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
 ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
-![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
-![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
