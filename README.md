@@ -1,7 +1,10 @@
 Jagoraxr
 ![GitHub followers](https://img.shields.io/github/followers/jagoraxm)
 
-https://github.com/jagoraxm/FrontSIGI/blob/da32664a5d7d4c1b73cdeb90b2cfdf94ed123f03/public/assets/8.%201920%20x%201080.png
+<p align="center">
+  <img src="https://github.com/jagoraxm/FrontSIGI/blob/da32664a5d7d4c1b73cdeb90b2cfdf94ed123f03/public/assets/8.%201920%20x%201080.png" />
+</p>
+
 
 ### 🛠 Tech Stack
 
