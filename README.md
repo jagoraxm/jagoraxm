@@ -22,6 +22,10 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 
+![Jagoraxm GitHub stats](https://github-readme-stats.vercel.app/api?username=jagoraxm&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagoraxm&exclude_repo=github-readme-stats,jagoraxm.github.io&layout=compact&theme=merko)](https://github.com/jagoraxm/github-readme-stats)
+
 ### 🛠 Tech Stack
 
 ![React](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
